@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="stilos.css">
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Days+One&display=swap" rel="stylesheet">
+    <title>maingchp</title>
+  </head>
+  <body>
+<div style="width:100%;height:auto;">
+<h2 style="text-align:center;font-family: 'Days One', sans-serif;width:100%;color:#958b8b">Resuelve tus dudas en conjunto con otros </h2>
+<h2 style="text-align:center;font-family: 'Days One', sans-serif;width:100%;color:#958b8b;">compañeros</h2>
+</div>
+
+<div style="position:relative;font-size: 370%;height:auto;width:100%">
+<p style="text-align:center;font-family: 'Days One', sans-serif;color:#996633;width:100%">El grupo de estudio te </p>
+<p style="text-align:center;font-family: 'Days One', sans-serif;color:#996633;width:100%;">da la bienvenida</p>
+
+
+</div>
+
+
+<img style="position:relative;width:100%;right:0%;top:8px" src="ufv5.jpg">
+
+
+
+
+<div style="position:relative;width:100%;height:200px ;top:-20px;right:0% ;background-color:#996633;font-family: 'Days One', sans-serif;" >
+<p style="position:relative;color:white;text-align:center;top:60px ;font-size: 150%">
+Quíenes somos
+</p>
+<p style="position:relative;top:50px;width:50% ;color:white;text-align:center;right:-25% ;font-size: 70%">
+Somos un grupo de alumnos de Ingeniería Informatica de la Universidad Francisco de Vitoría.Nuestro objetivo principal es hacer un grupo en el que ayudarnos a resolver problemas de  de Matematícas y programación.
+</p>
+
+
+
+</div>
+<div>
+
+  <img style="position:relative;width:70%;right:-18% ;" src="ufv4.jpg">
+</div>
+
+
+
+
+
+<div style="position:relative" >
+
+<p style="position:relative;text-align: center;color:#996633;font-family: 'Days One', sans-serif;font-size:150%">Contactanos</p>
+
+<p style="position:relative;text-align: center;color:#996633;font-family: 'Days One', sans-serif;">Únete a nuestro grupo de Telegram y envía tus probleas de matematícas pinchando en esta imagen</p>
+
+<a href="https://t.me/joinchat/vqTCoNbGvX5iZGY8">
+<input style="position:relative;right:-48%;padding-top:5%" type="image" style="position:relative;"src="tele.png" width="3%;">
+</a>
+</div>
+
+
+
+<footer style="color:grey;position:relative;text-align:center;padding-top:10%">
+©2021 por el grupo de matemáticas de 1ºc de Ingeniería informática de  la universidad Francisco de Vitoria
+</footer>
+
+
+  </body>
+</html>
